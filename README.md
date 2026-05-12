@@ -91,15 +91,3 @@ Se incluyó una explicación breve sobre temas importantes de bases de datos:
 Estos puntos permiten comprender la importancia de proteger la información y mantener la coherencia de la base de datos.
 
 ---
-
-## Contenido del Repositorio
-
-```text
-/scripts
-Archivos .sql con el código de creación de tablas, inserciones, actualizaciones, eliminaciones y consultas.
-
-/evidencias_manuales
-Fotografías del desarrollo realizado a mano durante la clase.
-
-/capturas_oracle
-Capturas de pantalla de la ejecución de los comandos SQL y los resultados obtenidos en Oracle.
